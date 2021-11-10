@@ -4,7 +4,3 @@ channels:
 dependencies:
  - pip:
    - scipy
-   - pandas
-   - math
-   - random
-   - matplotlib
